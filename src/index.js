@@ -8,4 +8,3 @@ const refs = {
     choiseBtn: document.querySelector(".btn"),
     gallery: document.querySelector('.gallery'),
   };
-  console.log("hi")
