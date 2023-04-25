@@ -1,8 +1,4 @@
 
-
-
-
-
 const refs = {
     formSearch: document.querySelector('#search-form'),
     input: document.querySelector('[type="text"]'),
@@ -12,3 +8,4 @@ const refs = {
     choiseBtn: document.querySelector(".btn"),
     gallery: document.querySelector('.gallery'),
   };
+  console.log("hi")
