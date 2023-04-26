@@ -2,15 +2,8 @@ p{
     margin: 0;
 }
 .load-more{
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    margin-top: 15px;
-}
-.is-hidden{
-    display: none;
-}
 
+}
 
 .gallery{
     display: flex;
